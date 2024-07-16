@@ -1,3 +1,10 @@
+hey buddy!
+This the front-end for the spring project.
+if you wanna make use of the front-end dowlonad it.
+Open the terminal type npm instll 
+after that type npm run dev
+This project would run in http://localhost:5173/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
