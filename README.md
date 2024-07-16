@@ -1,7 +1,7 @@
 hey buddy!
 This the front-end for the spring project.
 if you wanna make use of the front-end dowlonad it.
-Open the terminal type npm instll 
+Open the terminal type npm insatll 
 after that type npm run dev
 This project would run in http://localhost:5173/
 
